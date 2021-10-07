@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital@0;1&family=PT+Sans+Narrow:wght@400;700&display=swap');
+
+
+body {
+    
+    font-weight: 300; 
+    color: #263348;
+}
+
+.heavy12 {
+    font-size: 12px;
+   font-weight: bold;
+    color: #263348;
+}
+
+.regular14 {
+    font-size: 14px;
+    font-weight: normal;
+    color: #263348;
+}
+
+.getstarted {
+    font-size: 14;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.bold10 {
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.bold24 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.bold32 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.bold28 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.bold14 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.bold20 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.mainbody {
+    width: 1200px;
+    height: 800px;
+}
+
+#yourtask {
+    font-size: 20px;
+    font-style: bold;
+    color: #263348;
+}
+
+.maincontainer {
+height: 668px;
+width: 990px;
+border-radius: 10px;
+border-radius: 10px;
+border-style: none;
+
+
+}
+
+.card {
+    height: 258px;
+    width: 286px;
+    border-radius: 6px;
+}
+
+.timebutton {
+
+height: 33px;
+width: 100px;
+border-radius: 28px !important;
+border: solid .5px;
+
+
+}
+
+.staricon {
+    
+    height: 24px;
+width: 24px;
+left: 522px;
+top: 1652px;
+border-radius: 1px;
+
+}
+
+.points {
+    height: 15px;
+width: 79px;
+left: 555px;
+top: 1656px;
+border-radius: nullpx;
+
+}
+
+#getstartedbtn {
+        bottom: -25px;
+        height: 47px;
+    width: 187px;
+    border-radius: 23.5px;
+
+}
+
+#wifitricks {
+    background-color: #F5F9FF;
+    border: solid;
+    border-radius: 6px !important;
+    border-image-source: linear-gradient(to right, #3973CB, #65C9E9);
+    border-image-slice: 1;
+
+}
+
+.container {
+    height: 131px;
+    background: #1953A51A 10%;
+    margin-left: -10px;
+    width: 990px;
+    margin-top: 74px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
+}
+    
+.openbox {
+    width: 201px;
+    height: 43px;
+   background-color:  #F1F5FB;
+   border-radius: 23.5px;
+   letter-spacing: 1.75px;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.questionbox {
+    width: 218px;
+}
+
+
+.clock1 {
+    width: 14px;
+    height: 17px;
+}
+
+.clock2 {
+    width: 14px;
+    height: 14px;
+}
+
+.lastcontainer {
+    margin-top: 61px;
+    border-radius: 0 0 10px 10px;
+    background-color: #1953A51A;
+}
+
+#rightend{
+    line-height: 10px;
+}
+
+#wifitricks, #box2, #box3, .unlock {
+    color: #263348;
+}
